@@ -1,5 +1,5 @@
 # my_gkrellm
-Epitech project in c++
+Rush Epitech c++ realisé à 4
 ## Usage
 ### Mode Ncurses
 ```
